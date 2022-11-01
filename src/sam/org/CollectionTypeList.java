@@ -16,7 +16,7 @@ public class CollectionTypeList {
 		li.add(0123.2588744f);
 		li.add('M');
 
-		// System.out.println(li);
+
 
 		int b = li.size();
 		System.out.println(b);
@@ -30,8 +30,6 @@ public class CollectionTypeList {
 			System.out.println(loop);
 		}
 
-		/*
-		 * for(Object f:li) { System.out.println(f); }
-		 */
+		
 	}
 }
