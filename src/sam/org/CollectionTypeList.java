@@ -30,7 +30,7 @@ public class CollectionTypeList {
 			System.out.println(loop);
 		}
 		
-		System.out.println(a);
+		System.out.println("d");
 
 		
 	}
