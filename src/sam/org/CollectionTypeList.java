@@ -29,6 +29,8 @@ public class CollectionTypeList {
 			Object loop = li.get(i);
 			System.out.println(loop);
 		}
+		
+		System.out.println(a);
 
 		
 	}
